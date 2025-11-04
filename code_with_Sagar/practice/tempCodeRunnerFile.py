@@ -1,1 +1,0 @@
-s_r=math.sqrt(num)
