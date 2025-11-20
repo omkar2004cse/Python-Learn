@@ -7,3 +7,6 @@ f_set=frozenset(set)
 print(f_set)
 print(type(f_set))
 # f_set=f_set.add(32)
+
+s={1,2,32,3,2,"omkar",3,12,2,1,"omkar","om"}
+print(s)
