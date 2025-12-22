@@ -7,4 +7,3 @@ print(id(c))
 
 print(a is c)
 print(b is c)
-
