@@ -9,7 +9,7 @@ print(l,l2)
 li1=['omkar','sujal','vivek','shailendra']
 
 li2=li1.copy()
-
+print(id(li1),id(li2))
 print(li1)
 print(li2)
 
