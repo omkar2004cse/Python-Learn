@@ -6,4 +6,4 @@
 # Output: "nohtyP"
 
 word=input("Enter a Word:-")
-print(word)
+print(word[-1::-1])
